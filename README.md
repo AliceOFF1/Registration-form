@@ -17,4 +17,7 @@
 
 # Форма регистрации
 Этот сайт представляет собой простую веб-форму регистрации пользователей, с использованием HTML, CSS и JavaScript. Он взаимодействует с серверной частью для обработки регистрации, отправляя данные на сервер через API. 
-### https://dot-tropical-ocicat.glitch.me
+URL проекта: https://dot-tropical-ocicat.glitch.me
+
+## HTML-структура:
+<img src="https://github.com/your-username/your-repository/raw/main/path/to/your-image.jpg" alt="Описание изображения">
