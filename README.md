@@ -19,7 +19,7 @@
 Этот сайт представляет собой простую веб-форму регистрации пользователей, с использованием HTML, CSS и JavaScript. Он взаимодействует с серверной частью для обработки регистрации, отправляя данные на сервер через API
 
 ![mind](registrForm.png)
-### URL проекта: https://dot-tropical-ocicat.glitch.me
+- URL проекта: https://dot-tropical-ocicat.glitch.me
 
 ## HTML-структура:
 ![mind](1.png)
@@ -228,5 +228,5 @@ Google Chrome (последняя версия)
 ![mind](chek_4.png)
 
 
-### URL https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
+- URL https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
 
