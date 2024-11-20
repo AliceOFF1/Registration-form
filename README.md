@@ -215,7 +215,6 @@ Google Chrome (последняя версия)
 Расширить тестирование API для оценки производительности.
 
 ## Чек-листы:
-
 ### Чек-лист для функционального тестирования (клиентская часть)
 ![mind](chek_1.png)
 
@@ -229,5 +228,5 @@ Google Chrome (последняя версия)
 ![mind](chek_4.png)
 
 
-
+### URL https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
 
