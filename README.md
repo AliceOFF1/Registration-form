@@ -20,4 +20,4 @@
 ### URL проекта: https://dot-tropical-ocicat.glitch.me
 
 ## HTML-структура:
-<img src="[https://github.com/your-username/your-repository/raw/main/path/to/your-image.jpg](https://github.com/AliceOFF1/Registration-form/blob/main/1.png)" alt="Описание изображения">
+![Описание изображения](https://github.com/your-username/your-repository/blob/main/path/to/your-image.jpg)
