@@ -227,7 +227,7 @@ Google Chrome (последняя версия)
 ![mind](chek_3.png)
 
 ### Чек-лист для серверного тестирования (API)
-![mind](chek_4.png)
+![mind](api_1_1.png)
 
 
 - Ссылка на чек-листы: https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
