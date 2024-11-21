@@ -233,5 +233,5 @@ Google Chrome (последняя версия)
 - Ссылка на чек-листы: https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
 
 ## Тест-кейсы:
-![mind](cases.png)
+![mind](cases_1_1.png)
 - Ссылка на тест-кейсы: https://docs.google.com/spreadsheets/d/10KoaP0LkXU2yAiv7zhEwtv7Yo1l2oUoDbVeeov7NLdg/edit?gid=0#gid=0
