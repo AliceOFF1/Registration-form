@@ -234,15 +234,15 @@ Google Chrome (последняя версия)
 
 ## Тест-кейсы:
 - Функциональное тестирования
-![mind](case_1.png)
+![mind](Case_1.png)
 
 - UX/UI тестирование
-![mind](case_2.png)
+![mind](Case_2.png)
 
 - Кроссбраузерное тестирование
-![mind](case_3.png)
+![mind](Case_3.png)
 
 - Серверное тестирование (API)
-![mind](case_4.png)
+![mind](Case_4.png)
 
 - Ссылка на тест-кейсы: https://docs.google.com/spreadsheets/d/10KoaP0LkXU2yAiv7zhEwtv7Yo1l2oUoDbVeeov7NLdg/edit?gid=0#gid=0
