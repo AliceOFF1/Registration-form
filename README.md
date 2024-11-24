@@ -405,6 +405,18 @@ POST-запрос отправляется на сервер, который о�
 
  # Баг-репорт
  
+![mind](folder_image/bug_fcl_07.png)
+
+![mind](folder_image/bug_fcl_08.png)
+
+![mind](folder_image/bug_fcl_09.png)
+
+![mind](folder_image/bug_fcl_10.png)
+
+![mind](folder_image/bug_bug_api_05.png)
+
+![mind](folder_image/bug_bug_api_06.png)
+
  # Рекомендации по улучшению работы системы:
  
 1. **Улучшение валидации на серверной стороне:**
