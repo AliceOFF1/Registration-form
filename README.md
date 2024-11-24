@@ -222,7 +222,7 @@ POST-запрос отправляется на сервер, который о�
 
 ## Чек-листы:
 ### Чек-лист для функционального тестирования (клиентская часть)
-![mind](folder_image/chek_1.png)
+![mind](folder_image/flcChek.png)
 
 ### Чек-лист для UX/UI тестирования
 ![mind](folder_image/chek_2.png)
@@ -231,7 +231,7 @@ POST-запрос отправляется на сервер, который о�
 ![mind](folder_image/chek_3.png)
 
 ### Чек-лист для серверного тестирования (API)
-![mind](folder_image/api_1_1.png)
+![mind](folder_image/apiChek.png)
 
 
 - Ссылка на чек-листы: https://docs.google.com/document/d/1BaBD3Bmn_ZwCvDnhdXQq0nnMkMswQHk3sVdj6233ev8/edit?tab=t.0
@@ -239,18 +239,18 @@ POST-запрос отправляется на сервер, который о�
 ## Тест-кейсы:
 - Функциональное тестирования
 
-![mind](folder_image/Case_1.png)
+![mind](folder_image/flcTest.png)
 
 - UX/UI тестирование
 
-![mind](folder_image/Case_2.png)
+![mind](folder_image/uclTest.png)
 
 - Кроссбраузерное тестирование
 
-![mind](folder_image/Case_3.png)
+![mind](folder_image/cclTest.png)
 
 - Серверное тестирование (API)
 
-![mind](folder_image/Case_4.png)
+![mind](folder_image/apiTest.png)
 
 - Ссылка на тест-кейсы: https://docs.google.com/spreadsheets/d/10KoaP0LkXU2yAiv7zhEwtv7Yo1l2oUoDbVeeov7NLdg/edit?gid=0#gid=0
